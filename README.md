@@ -1,4 +1,4 @@
-Olá, sou Sabrina 👋
+#Olá, sou Sabrina 👋
 
 Bem-vindo(a) ao meu perfil do GitHub! 😄 Sou estudante do Curso Técnico em Desenvolvimento de Sistemas e estou no começo da minha jornada na área de tecnologia. Atualmente, estou me dedicando ao aprendizado de Python 🐍 e estou muito empolgada com tudo o que estou descobrindo nesse mundo da programação! 💻✨
 
