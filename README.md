@@ -30,3 +30,5 @@ Fundamentos de Python e suas aplicações 🔧
 📬 Vamos nos conectar!
 
 Estou no início dessa jornada, mas adoro trocar ideias, aprender com outros desenvolvedores e fazer parte de projetos interessantes. Se você tem dicas, recursos ou quer conversar sobre programação, Python ou qualquer outra tecnologia, sinta-se à vontade para me contactar! 😊
+
+🔗 www.linkedin.com/in/sabrina-dos-santos-coelho-15b17b370
