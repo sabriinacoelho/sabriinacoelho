@@ -14,6 +14,18 @@ Estou em processo de aprendizagem, focada em adquirir os fundamentos da programa
 
 Embora esteja no começo, estou super motivada para continuar aprendendo e crescer cada vez mais na área!
 
+ # Redes Sociais 
+ 
+<div> 
+  <a href=" www.linkedin.com/in/sabrina-dos-santos-coelho-15b17b370 " target="_blank" rel="noopener noreferrer"> 
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> 
+  </a> 
+ 
+  <a href="mailto:ssabrinacoelhoo@gmail.com" target="_blank" rel="noopener noreferrer"> 
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> 
+  </a> 
+</div 
+
 🔧 Tecnologias e Ferramentas
 
 Linguagens: Python (focando bastante no básico! 🐍)
